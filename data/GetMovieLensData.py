@@ -66,8 +66,8 @@ def preprocess_data(data):
     return data
 
 def main():
-    data_path = '../data/movie-lens-1m/'
-    db_filename = '../data/sql_database/movielens.db'
+    data_path = 'movie-lens-1m/'
+    db_filename = 'sql_database/movielens.db'
 
     # Load data from CSV files
     movies_columns = ['movie_id', 'title', 'genres']
