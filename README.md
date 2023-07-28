@@ -10,11 +10,11 @@ Welcome to RecSys-tfrs, an intuitive guide that simplifies the process of buildi
 - Swift prototyping and experimentation
 
 **Getting Started:**
-1. Install via pip: `pip install recsys-tfrs`
-2. Import the library: `import recsys_tfrs`
-3. Load data and configure algorithms
-4. Train the model
-5. Generate personalized recommendations
+1. Install via pip: `pip install -q tensorflow-recommenders`
+2. Load data and configure algorithms
+3. Train the model
+4. Generate personalized recommendations
+5. Deploy
 
 **Additional Information:**
 - All relevant code and information are taken from [https://www.tensorflow.org/recommenders](https://www.tensorflow.org/recommenders).
