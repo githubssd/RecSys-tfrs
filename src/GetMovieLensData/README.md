@@ -1,1 +1,1 @@
-# Get and Movie Lens data in data folder as csv file
+# Get and save MovieLens data in data folder as a csv file
