@@ -6,7 +6,6 @@ Welcome to RecSys-tfrs, an intuitive guide that simplifies the process of buildi
 **Key Features:**
 - Easy setup and deployment
 - Scalable for handling large datasets
-- Versatile algorithms: collaborative filtering, content-based, matrix factorization, and more
 - Swift prototyping and experimentation
 
 **Getting Started:**
